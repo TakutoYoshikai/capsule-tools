@@ -1,7 +1,6 @@
 #!/bin/bash
 
-mkdir ~/capsules
-cd ~/capsules
+cd `dirname $0`
 git clone git@github.com:TakutoYoshikai/mkcapsule.git
 
 cd mkcapsule

@@ -17,6 +17,9 @@ git clone git@github.com:TakutoYoshikai/mkloveletter.git
 cd mkloveletter
 ./install.sh
 
+echo ""
+echo ""
+echo ""
 echo "add below to \$PATH"
 echo "export PATH=\$PATH:\$HOME/capsules/mkcapsule/bin"
 echo "export PATH=\$PATH:\$HOME/capsules/mktcapsule/bin"
